@@ -229,7 +229,7 @@ vsim -do sim/run.do
 
 # 👨‍💻 Author
 
-### Mahmoud Ayman
+### Abdelrahman Youssef
 
 Electronics & Communication Engineering Student
 
