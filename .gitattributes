@@ -1,4 +1,7 @@
-# Verilog is main language
+# Force Verilog as the primary language
 *.v linguist-language=Verilog
-*.do linguist-vendored
-*.tcl linguist-vendored
+
+# Completely ignore documentation and scripts from language statistics
+*.pdf linguist-documentation=true
+*.do linguist-vendored=true
+*.xdc linguist-vendored=true
